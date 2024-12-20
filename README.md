@@ -76,17 +76,13 @@ Prerequisites
 **Steps**
 
 1. **Clone the Repository:**
-> git clone https://github.com/Singh050/LoanDefaultPrediction.git
-> cd LoanDefaultPrediction
+> git clone https://github.com/Singh050/Machine-Learning-Based-Prediction-of-Loan-Default.git
+> cd Machine-Learning-Based-Prediction-of-Loan-Default
 
-2. **Prepare the Dataset:**
-> Download the dataset from Kaggle.
-> Place the Loan_default.csv file in the repository's root directory.
-
-3. **Run the R Script: Open RStudio or an R terminal and execute:**
+2. **Run the R Script: Open RStudio or an R terminal and execute:**
 > source("Project_Final_Code_IDA.R")
 
-4. **Visualizations and Outputs:**
+3. **Visualizations and Outputs:**
 > Density plots, boxplots, AUC-ROC curves, and bar charts for model performance will be generated.
 
 **Key Visualizations**
