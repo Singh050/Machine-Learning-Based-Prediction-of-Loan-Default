@@ -1,4 +1,4 @@
-Machine Learning-Based Loan Default Prediction
+**Machine Learning-Based Loan Default Prediction**
 
 This project uses **machine learning techniques** to predict loan defaults by analyzing borrower demographics, financial history, and loan characteristics. It compares the performance of 10 supervised learning models to determine the most effective method for identifying high-risk borrowers.
 
@@ -97,12 +97,16 @@ Prerequisites
 
 **Insights**
 **Top Predictor:** Income emerged as the strongest predictor, followed by credit score.
+
 **Best Model:** Random Forest achieved the highest AUC-ROC (0.8081), making it the most reliable for deployment.
+
 **Effectiveness of SMOTE:** Balanced the dataset and improved detection of minority class (defaults).
 
 
 **Contact**
+
 **For collaboration or questions:**
+
 **Barjinder Singh** - barjindersingh@ou.edu 
 
 
