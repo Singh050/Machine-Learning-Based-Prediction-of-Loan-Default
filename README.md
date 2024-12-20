@@ -96,11 +96,12 @@ Prerequisites
 
 
 **Insights**
-**Top Predictor:** Income emerged as the strongest predictor, followed by credit score.
 
-**Best Model:** Random Forest achieved the highest AUC-ROC (0.8081), making it the most reliable for deployment.
+> **Top Predictor:** Income emerged as the strongest predictor, followed by credit score.
 
-**Effectiveness of SMOTE:** Balanced the dataset and improved detection of minority class (defaults).
+> **Best Model:** Random Forest achieved the highest AUC-ROC (0.8081), making it the most reliable for deployment.
+
+> **Effectiveness of SMOTE:** Balanced the dataset and improved detection of minority class (defaults).
 
 
 **Contact**
